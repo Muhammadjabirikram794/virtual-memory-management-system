@@ -1,4 +1,4 @@
-# virtual-memory-tlb-simulator
+# virtual-memory-management-system
 ## Overview
 
 This project is a software-based Memory Management Unit (MMU) simulator developed in Python. It demonstrates how a modern operating system translates 32-bit virtual addresses into physical addresses using a Page Table and a Translation Lookaside Buffer (TLB).
